@@ -1,0 +1,27 @@
+ #btn1 {
+    border-radius: 100px;
+    color: darkolivegreen;
+    width: 150px;
+    height: 30px;
+    background-color: lightgrey;
+    border-color: aquamarine;
+}
+#btn2 {
+    border-radius: 50%;
+    color: white;
+    width: 1cm;
+    height: 1cm;
+    background-color: rgb(89, 194, 89);
+    border-color: rgb(89, 194, 89);
+    
+}
+#btn3 {
+    border: 200px;
+    color: white;
+    width: 175px;
+    height: 30px;
+    background-color: blue;
+    border-color: black;
+    box-shadow: 2px 5px grey;
+}
+
